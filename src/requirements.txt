@@ -1,0 +1,5 @@
+fastapi
+sqlalchemy
+sqlalchemy_utils
+uvicorn
+psycopg2
